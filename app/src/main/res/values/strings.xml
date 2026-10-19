@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">XilofonoSacchi</string>
+    <string name="buttonDo">Do</string>
+    <string name="buttonRe">Re</string>
+    <string name="buttonMi">Mi\n</string>
+    <string name="buttonFa">Fa\n</string>
+    <string name="buttonSol">Sol\n</string>
+    <string name="buttonLa">La</string>
+    <string name="buttonSi">Si\n</string>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/buttonDo"
+        style="@style/KeyStyle"
+        android:backgroundTint="@color/red"
+        android:text="@string/buttonDo" />
+
+    <Button
+        android:id="@+id/buttonRe"
+        style="@style/KeyStyle"
+        android:backgroundTint="@color/blue"
+        android:text="@string/buttonRe" />
+
+    <Button
+        android:id="@+id/buttonMi"
+        style="@style/KeyStyle"
+        android:backgroundTint="@color/purple"
+        android:text="@string/buttonMi" />
+
+    <Button
+        android:id="@+id/buttonFa"
+        style="@style/KeyStyle"
+        android:backgroundTint="@color/turquoise"
+        android:text="@string/buttonFa" />
+
+    <Button
+        android:id="@+id/buttonSol"
+        style="@style/KeyStyle"
+        android:backgroundTint="@color/green"
+        android:text="@string/buttonSol" />
+
+    <Button
+        android:id="@+id/buttonLa"
+        style="@style/KeyStyle"
+        android:backgroundTint="@color/yellow"
+        android:text="@string/buttonLa" />
+
+    <Button
+        android:id="@+id/buttonSi"
+        style="@style/KeyStyle"
+        android:backgroundTint="@color/orange"
+        android:text="@string/buttonSi" />
+
+</LinearLayout>
